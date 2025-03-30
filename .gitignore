@@ -26,7 +26,8 @@
 *.dll
 *.so
 *.so.*
-*.dylib
+
+
 
 # Executables
 *.exe
@@ -47,6 +48,6 @@
 *.cmd
 .tmp_versions/
 modules.order
-Module.symvers
-Mkfile.old
+Module.
+.old
 dkms.conf
